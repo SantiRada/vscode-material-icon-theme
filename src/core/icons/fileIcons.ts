@@ -925,6 +925,7 @@ export const fileIcons: FileIcons = {
         graphql: FileNamePattern.Cosmiconfig,
       },
     },
+    { name: 'gamo', fileExtensions: ['gamo', 'dialog.gamo', 'lang.gamo', 'art.gamo', 'ui.gamo', 'audio.gamo', 'sound.gamo' ] },
     { name: 'rust', fileExtensions: ['rs', 'ron'] },
     { name: 'raml', fileExtensions: ['raml'] },
     { name: 'xaml', fileExtensions: ['xaml'] },
