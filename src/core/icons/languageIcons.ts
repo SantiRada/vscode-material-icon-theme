@@ -32,6 +32,7 @@ export const languageIcons: LanguageIcon[] = [
   { name: 'scala', ids: ['scala'] },
   { name: 'handlebars', ids: ['handlebars'] },
   { name: 'perl', ids: ['perl', 'perl6'] },
+  { name: 'gamo', ids: ['gamo'] },
   { name: 'haxe', ids: ['haxe', 'hxml'] },
   { name: 'puppet', ids: ['puppet'] },
   { name: 'elixir', ids: ['elixir'] },
